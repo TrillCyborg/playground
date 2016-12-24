@@ -1,0 +1,22 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrillCyborg/playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrillCyborg/playground/issues"
+  },
+  "homepage": "https://github.com/TrillCyborg/playground#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
